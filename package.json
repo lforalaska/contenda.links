@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://contenda.links",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
