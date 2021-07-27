@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://contenda.links",
+  "baseUrl": "https://links.contenda.co",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
